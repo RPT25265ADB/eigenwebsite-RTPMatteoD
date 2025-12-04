@@ -1,0 +1,142 @@
+/* De website krijgt een blauwe achtergrond */
+body{
+    background-color: #27415B;
+    color: aliceblue;
+}
+
+/* De groepen krijgen een licht blauwe achtergrond */
+div{
+    background-color: #3A628A;
+    margin: 30px;
+}
+
+/* De afbeelding vervormt */
+header img{
+    width: 2000px;
+}
+
+/* De opmaak van h1*/
+
+h1{
+    font-size:xxx-large ;
+    text-align: center;
+    padding: 50px;
+}
+
+/* De inhoud wordt naar links verschoven*/
+
+main p{
+    text-align: left;
+    font-size: x-large;
+}
+
+/* De afbeelding vervormt */
+.drone{
+    height: 300px;
+    width: 600px;
+}
+
+/* De opmaak van h2*/
+
+h2{
+    margin: 70px;
+    padding: 30px;
+    font-size: 40px;
+    text-align: center;
+}
+
+/* De opmaak van de tabel */
+table{
+    text-align: center;
+    margin-left: 410px;
+    font-size: 60px;
+}
+
+table td{
+    background-color: #9D9D9D;
+}
+
+table img{
+    width: 400px;
+}
+
+
+/* De afbeelding vervormt */
+
+.avata{
+    width: 400px;
+}
+
+.titel{
+    text-align: left;
+}
+
+/* De afbeelding en de tekst worden samen gezet */
+.start{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    padding: 50px;
+}
+
+.start p{
+    font-size: 38px;
+}
+
+
+.avata2{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    padding: 50px;
+}
+
+/* De afbeelding vervormt */
+
+.avata2 img{
+    width: 400px;
+}
+
+/* De opmaak van de tweede titel */
+
+.titel2{
+    text-align: left;
+    color: aliceblue;
+}
+
+.materiaal{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+h3{
+    font-size: 60px;
+    margin-bottom: 350px;
+    margin-left: 30px;
+}
+
+.materiaal ul{
+    font-size: 25px;
+}
+
+/* De hyperlinks worden opgemaakt*/
+
+a{
+    color: white;
+}
+
+footer{
+    margin-top: 30px;
+    width: 100%;
+}
+
+/* De afbeelding vervormt en verplaatst*/
+.voetfoto{
+display: block;
+	width: 50%;
+    margin-left: auto; 
+    margin-right: auto;
+padding: 0;
+ 
+}
